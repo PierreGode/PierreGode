@@ -6,7 +6,7 @@ I'm Pierre from Stockholm, Sweden. I'm a **Linux engineer** and **Cloud technici
 
 When I’m not working, I enjoy:  
 - 🎮 Playing: **COD**
-- 🛠️ Tinkering with **Raspberry Pi**  
+- 🛠️ Tinkering with **Raspberry Pi & Home Automation**  
 
 #### 💼 What I'm Working On    
 - Managing my **GitHub Pages project** at [gode.one](https://gode.one)  
