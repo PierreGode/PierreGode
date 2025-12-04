@@ -11,7 +11,9 @@ When I’m not working, I enjoy:
 #### 💼 What I'm Working On    
 - Managing my **GitHub Pages project** at [gode.one](https://gode.one)  
 - Automating Linux **Active Directory joins** ([Repo](https://github.com/PierreGode/Linux-Active-Directory-join-script))  
-- My **code reviewer project** ([Repo](https://github.com/PierreGode/GPTcode-reviewer))  
+- My **code reviewer project** ([Repo](https://github.com/PierreGode/GPTcode-reviewer))
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PierreGode)
 
 #### 📡 Latest Tech Interests  
 - 🚀 **Rocket Lab** & the future of space travel  
