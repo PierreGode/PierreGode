@@ -13,7 +13,7 @@ When I’m not working, I enjoy:
 - Automating Linux **Active Directory joins** ([Repo](https://github.com/PierreGode/Linux-Active-Directory-join-script))  
 - My **code reviewer project** ([Repo](https://github.com/PierreGode/GPTcode-reviewer))
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PierreGode)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PierreGode&theme=dark&hide_border=true)
 
 #### 📡 Latest Tech Interests  
 - 🚀 **Rocket Lab** & the future of space travel  
