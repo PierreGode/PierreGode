@@ -11,7 +11,6 @@ When I'm not working, I enjoy:
 - 🎮 Playing: **COD**
 - 🛠️ Tinkering with **Raspberry Pi & Home Automation**
 
-#### 📊 My GitHub Stats
 
 [![Pierre's GitHub stats](https://github-readme-stats-zeta-five-66.vercel.app/api?username=pierregode&show_icons=true&theme=aura)](https://github.com/PierreGode)
 
