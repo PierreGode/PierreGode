@@ -12,13 +12,6 @@ When I'm not working, I enjoy:
 - 🛠️ Tinkering with **Raspberry Pi & Home Automation**
 
 
-
-#### 💼 What I'm Working On
-
-- Managing my **GitHub Pages project** at [gode.one](https://gode.one)
-- Automating Linux **Active Directory joins** ([Repo](https://github.com/PierreGode/Linux-Active-Directory-join-script))
-- My **code reviewer project** ([Repo](https://github.com/PierreGode/GPTcode-reviewer))
-
 #### 📡 Latest Tech Interests
 
 - 🚀 **Rocket Lab** & the future of space travel
