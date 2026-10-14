@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🐧 I build and automate things on **Linux** and in the **cloud**
-- 📦 **120+ open-source repositories**, from enterprise tooling to MagicMirror modules
+- 📦 **180+ open-source repositories**, from enterprise tooling to MagicMirror modules
 - 🏠 Always tinkering with **Raspberry Pi & home automation**
 - 🌌 Passionate about **space and science**: ask me about **quantum mechanics, quantum physics, or relativity**
 - 🎮 Off the clock: **Call of Duty**
