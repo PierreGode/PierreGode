@@ -19,7 +19,7 @@
 - 📦 **180+ open-source repositories**, from enterprise tooling to MagicMirror modules
 - 🏠 Always tinkering with **Raspberry Pi & home automation**
 - 🌌 Passionate about **space and science**: ask me about **quantum mechanics, quantum physics, or relativity**
-- 🎮 Off the clock: **Call of Duty**
+- 🎮 Off the clock: **God Of War, Call of Duty**
 
 ## 📡 Currently Into
 
