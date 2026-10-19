@@ -6,9 +6,8 @@
 
 [![Profile views](https://hits.sh/github.com/PierreGode.svg?style=flat-square&label=Profile%20views&color=8a2be2&extraCount=13195)](https://github.com/PierreGode)
 [![Followers](https://img.shields.io/github/followers/PierreGode?style=flat-square&logo=github&label=Followers&color=blue)](https://github.com/PierreGode?tab=followers)
-
 [![Algora profile](https://images.weserv.nl/?url=algora.io/og/user/PierreGode&cx=16&cy=16&cw=1168&ch=322&maxage=1d)](https://algora.io/PierreGode)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J2EARPK)
 </div>
 
 ---
